@@ -1,0 +1,4 @@
+FoolishLang
+===========
+
+Toy language 
